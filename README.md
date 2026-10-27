@@ -1,4 +1,4 @@
-# High-Performance C++ Limit Order Book
+#C++ Limit Order Book
 
 ## 📌 Project Overview
 As a Mechanical Engineering student at IIT Madras, I am fascinated by how complex systems handle high-speed inputs. This project is a simulation of a financial exchange matching engine. It’s designed to handle multiple buy and sell orders, organizing them by **Price-Time Priority** and executing trades the moment market conditions are met.
